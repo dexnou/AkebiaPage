@@ -4,21 +4,21 @@ import { Quote } from "lucide-react"
 
 const testimonials = [
   {
-    quote: "The pastries at akebia are simply divine! I can't start my day without their croissants.",
+    quote: "¡Las facturas en Akebia son simplemente increibles! No puedo empezar mi día sin sus medialunas.",
     name: "María Fernández",
-    title: "Local Resident",
+    title: "Residente Local",
     image: "/placeholder.svg?height=80&width=80",
   },
   {
-    quote: "Their cakes made our family celebration extra special. The attention to detail is remarkable!",
+    quote: "Sus pasteles hicieron que nuestra celebración familiar fuera extra especial. ¡La atención al detalle es notable!",
     name: "Carlos Rodríguez",
-    title: "Satisfied Customer",
+    title: "Cliente Satisfecho",
     image: "/placeholder.svg?height=80&width=80",
   },
   {
-    quote: "As a coffee enthusiast, I appreciate how their pastries perfectly complement my morning brew.",
+    quote: "Como entusiasta del café, aprecio cómo sus pasteles complementan perfectamente mi café matutino.",
     name: "Laura Gómez",
-    title: "Coffee Shop Owner",
+    title: "Dueña de Cafetería",
     image: "/placeholder.svg?height=80&width=80",
   },
 ]
@@ -28,10 +28,10 @@ export default function Testimonials() {
     <section id="testimonials" className="py-16 md:py-24 bg-amber-100">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4">What Our Customers Say</h2>
-          <p className="text-lg text-amber-700 max-w-2xl mx-auto">
-            Don't just take our word for it - hear from our satisfied customers.
-          </p>
+          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4">Nuestros clientes frecuentes dicen</h2>
+            <p className="text-lg text-amber-700 max-w-2xl mx-auto">
+            No solo confíes en nuestra palabra: estos son nuestros clientes satisfechos.
+            </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">

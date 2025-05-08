@@ -17,25 +17,25 @@ export default function Header() {
             <div className="relative h-10 w-10 mr-2">
               <Image src="/placeholder.svg?height=40&width=40" alt="akebia logo" fill className="object-contain" />
             </div>
-            <span className="text-2xl font-bold text-amber-800">akebia</span>
+            <span className="text-2xl font-bold text-amber-800">Akebia </span>
           </Link>
         </div>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-8">
           <Link href="#features" className="text-amber-900 hover:text-amber-600 transition-colors">
-            Features
+            Por qué Elegirnos
           </Link>
           <Link href="#testimonials" className="text-amber-900 hover:text-amber-600 transition-colors">
-            Testimonials
+            Reseñas
           </Link>
           <Link href="#pricing" className="text-amber-900 hover:text-amber-600 transition-colors">
-            Products
+            Productos
           </Link>
           <Link href="#contact" className="text-amber-900 hover:text-amber-600 transition-colors">
-            Contact
+            Contacto
           </Link>
-          <Button className="bg-amber-600 hover:bg-amber-700">Order Now</Button>
+          <Button className="bg-amber-600 hover:bg-amber-700">Ordena Ahora</Button>
         </nav>
 
         {/* Mobile Menu Button */}

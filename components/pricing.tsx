@@ -4,39 +4,39 @@ import { Button } from "@/components/ui/button"
 
 const products = [
   {
-    name: "Artisanal Croissants",
-    description: "Buttery, flaky croissants made with premium ingredients",
-    price: 250,
+    name: "Tartaleta",
+    description: "Añadir descripción de Tartaleta aquí",
+    price: 6880+"/Porción",
     image: "/placeholder.svg?height=200&width=300",
   },
   {
-    name: "Specialty Cakes",
-    description: "Custom cakes for any occasion, made with love",
-    price: 2500,
+    name: "Tortas",
+    description: "Añadir descripción de Tortas aquí",
+    price: 8100+"/Porción",
     image: "/placeholder.svg?height=200&width=300",
   },
   {
-    name: "Assorted Cookies",
-    description: "A variety of cookies baked to perfection",
-    price: 180,
+    name: "Muffins DL",
+    description: "Deliciosos muffins rellecons con dulce de leche y chispas de chocolate",
+    price: 1750+" c/u",
     image: "/placeholder.svg?height=200&width=300",
   },
   {
-    name: "Fruit Tarts",
-    description: "Delicate pastry filled with seasonal fruits",
-    price: 350,
+    name: "Bombones",
+    description: "Bombones rellenos con varias formas y sabores",
+    price: 2000+"/Caja",
     image: "/placeholder.svg?height=200&width=300",
   },
   {
-    name: "Chocolate Muffins",
-    description: "Rich, moist muffins with chocolate chips",
-    price: 200,
+    name: "Cookies",
+    description: "Poner descripción de Cookies aquí",
+    price: 8900+"/Caja",
     image: "/placeholder.svg?height=200&width=300",
   },
   {
-    name: "Sourdough Bread",
-    description: "Traditional sourdough with a perfect crust",
-    price: 300,
+    name: "Alfajores",
+    description: "Poner descripción de Alfajores aquí",
+    price: 67890,
     image: "/placeholder.svg?height=200&width=300",
   },
 ]
@@ -46,9 +46,9 @@ export default function Pricing() {
     <section id="pricing" className="py-16 md:py-24 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4">Our Delicious Offerings</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-amber-900 mb-4">Nuestras recomendaciones</h2>
           <p className="text-lg text-amber-700 max-w-2xl mx-auto">
-            Explore our range of freshly baked goods, made with the finest ingredients.
+            Explora un mundo de sabores y texturas con nuestros productos horneados frescos, elaborados con los mejores ingredientes.
           </p>
         </div>
 
