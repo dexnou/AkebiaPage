@@ -7,19 +7,19 @@ const testimonials = [
     quote: "¡Las facturas en Akebia son simplemente increibles! No puedo empezar mi día sin sus medialunas.",
     name: "María Fernández",
     title: "Residente Local",
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/images/iconwoman.png",
   },
   {
     quote: "Sus pasteles hicieron que nuestra celebración familiar fuera extra especial. ¡La atención al detalle es notable!",
     name: "Carlos Rodríguez",
     title: "Cliente Satisfecho",
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/images/iconman.png",
   },
   {
     quote: "Como entusiasta del café, aprecio cómo sus pasteles complementan perfectamente mi café matutino.",
     name: "Laura Gómez",
     title: "Dueña de Cafetería",
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/images/iconwoman2.png",
   },
 ]
 

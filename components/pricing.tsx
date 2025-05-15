@@ -7,37 +7,37 @@ const products = [
     name: "Tartaleta",
     description: "Añadir descripción de Tartaleta aquí",
     price: 6880+"/Porción",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/tartaleta.jpg",
   },
   {
     name: "Tortas",
     description: "Añadir descripción de Tortas aquí",
     price: 8100+"/Porción",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/tortaSelvaNegra.avif",
   },
   {
     name: "Muffins DL",
     description: "Deliciosos muffins rellecons con dulce de leche y chispas de chocolate",
     price: 1750+" c/u",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/muffinsDL.jpg",
   },
   {
     name: "Bombones",
     description: "Bombones rellenos con varias formas y sabores",
     price: 2000+"/Caja",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/bombones.jpg",
   },
   {
     name: "Cookies",
     description: "Poner descripción de Cookies aquí",
     price: 8900+"/Caja",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/cookies.jpg",
   },
   {
     name: "Alfajores",
     description: "Poner descripción de Alfajores aquí",
     price: 67890,
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/images/alfajores.jpg",
   },
 ]
 
