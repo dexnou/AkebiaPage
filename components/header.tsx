@@ -15,7 +15,7 @@ export default function Header() {
         <div className="flex items-center">
           <Link href="/" className="flex items-center">
             <div className="relative h-10 w-10 mr-2">
-              <Image src="/placeholder.svg?height=40&width=40" alt="akebia logo" fill className="object-contain" />
+              <Image src="/placeholder-logo.png?height=40&width=40" alt="akebia logo" fill className="object-contain" />
             </div>
             <span className="text-2xl font-bold text-amber-800">Akebia </span>
           </Link>
